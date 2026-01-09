@@ -1,11 +1,61 @@
 <h1 align="center">Hi 👋, I'm Minato Nakano</h1>
 <h3 align="center">A passionate Aerospace AI Engineer specialized in AI.</h3>
 
-- 🔭 I’m currently working on **Fidelidade - Companhia de Seguros S.A.**
+📫 How to reach me: @axon0823
+## 👨‍💻 About Me
 
-- 📫 How to reach me: **jsilvawasd@hotmail.com**
+I work across the full lifecycle of AI systems — from **problem formulation and algorithm design** to **model training, fine-tuning, evaluation, and deployment**.  
+My background combines **machine learning, deep learning, computer vision**, and **data science**, with a strong emphasis on clarity, robustness, and practical impact.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I enjoy working on problems where **theory meets production**, especially when models must be explainable, scalable, and trustworthy.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joao-m-silva&show_icons=true&locale=en&layout=compact" alt="joao-m-silva" /></p>
+---
+
+## 🔬 Areas of Experience
+
+- **Model Design & Training**
+  - Classical ML and modern Deep Learning architectures
+  - Supervised, unsupervised, and representation learning
+  - Model evaluation, optimization, and error analysis
+
+- **Fine-Tuning & Adaptation**
+  - Task-specific fine-tuning
+  - Data curation and augmentation strategies
+  - Performance vs. cost trade-off optimization
+
+- **Computer Vision**
+  - Image classification, detection, segmentation
+  - Feature extraction and representation learning
+  - End-to-end CV pipelines
+
+- **Algorithms & Mathematics**
+  - Algorithm design and optimization
+  - Linear algebra, probability, and statistics
+  - Complexity-aware and data-efficient solutions
+
+- **Data Analysis & Data Science**
+  - Exploratory data analysis (EDA)
+  - Statistical reasoning and insight generation
+  - Turning raw data into actionable decisions
+
+---
+
+## 🧠 Philosophy
+
+> *Strong algorithms, clean data, and clear thinking matter more than hype.*
+
+I value:
+- Simplicity over unnecessary complexity  
+- Reproducibility and interpretability  
+- Calm, structured problem-solving  
+
+## 🌍 Location
+
+📍 Japan  
+🌐 Open to global, remote collaboration
+
+---
+
+## 📫 Contact
+
+If you’d like to discuss AI systems, research ideas, or practical applications, feel free to reach out.
