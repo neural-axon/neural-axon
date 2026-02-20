@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Minato Nakano</h1>
+<h1 align="center">Hi 👋, I'm Omar Francisco</h1>
 <h3 align="center">A passionate Aerospace AI Engineer specialized in AI.</h3>
 
 📫 How to reach me: @axon0823
@@ -51,7 +51,7 @@ I value:
 
 ## 🌍 Location
 
-📍 Japan  
+📍 Mexico 
 🌐 Open to global, remote collaboration
 
 ---
